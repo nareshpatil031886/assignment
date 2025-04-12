@@ -8,5 +8,3 @@
 - **Problem-2**: Generate a sequence of odd numbers based on the input count.
 - **Problem-3**: Same as Problem-2 but odd inputs and even inputs behave differently.
 - **Problem-4**: Count how many numbers in the array are divisible by numbers 1 through 9.
-
-Each file is named as `Problem-1.js`, `Problem-2.js`, etc.
